@@ -1,10 +1,12 @@
 ﻿# Projeto final da disciplina de Introdução à aprendizagem profunda [IF867]
-[![image](image.png)]
 > Classificação/Segmentação de dados de avaliação automática do enfarte do miocárdio a partir da ressonância magnética cardíaca com realce tardio
 
-## 🫀 About
+<img src="image.png" alt="EMIDEC-image" width="800">
 
-## 🚀 Código disponível em: 
+## 🫀 About
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ex diam, condimentum id eros non, vulputate placerat massa. Quisque ipsum magna, scelerisque suscipit pulvinar sed, condimentum nec ipsum. Vivamus ac velit ut sem hendrerit molestie quis eu augue. Mauris eleifend blandit viverra. Phasellus ultricies magna et lacus ornare elementum. Maecenas sagittis aliquam congue. Phasellus efficitur massa quis libero cursus mollis. Aliquam elementum mauris sed arcu consectetur, in congue diam suscipit. Morbi scelerisque sagittis diam, sit amet lobortis dolor tristique ut. Pellentesque eget ornare enim, et mattis lorem.
+
+## 🚀 Acesse o código: 
 [![Colab](https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab)]()
 
 ## ☑️ To-do
