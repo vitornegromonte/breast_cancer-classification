@@ -1,0 +1,15 @@
+Case 103
+
+Gap between slices : 10 mm
+Sex : F
+Age : 74
+Tobacco : 3
+Overweight : N
+Arterial hypertension : N
+Diabetes : N
+Familial history of coronary artery disease: N
+ECG (ST +) : N
+Troponin : 6.7
+Killip Max: 1
+FEVG : 35
+NTProBNP : 5627
