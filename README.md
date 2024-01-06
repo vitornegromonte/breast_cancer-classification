@@ -1,29 +1,33 @@
 ﻿# Projeto final da disciplina de Introdução à aprendizagem profunda [IF867]
-> Classificação/Segmentação de dados de avaliação automática do enfarte do miocárdio a partir da ressonância magnética cardíaca com realce tardio
-
-<img src="img/emidec-baner.png" alt="EMIDEC-image" width="800">
+> A Comparative Analysis between DDSM and CBIS-DDSM Datasets for Breast Cancer Detection in Mammography Images.
 
 ## 🫀 Sobre o projeto
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ex diam, condimentum id eros non, vulputate placerat massa. Quisque ipsum magna, scelerisque suscipit pulvinar sed, condimentum nec ipsum. Vivamus ac velit ut sem hendrerit molestie quis eu augue. Mauris eleifend blandit viverra. Phasellus ultricies magna et lacus ornare elementum. Maecenas sagittis aliquam congue. Phasellus efficitur massa quis libero cursus mollis. Aliquam elementum mauris sed arcu consectetur, in congue diam suscipit. Morbi scelerisque sagittis diam, sit amet lobortis dolor tristique ut. Pellentesque eget ornare enim, et mattis lorem.
+The objective of this project is to undertake a thorough comparative analysis of CNN models with the aim of enhancing early detection capabilities for breast cancer through the utilization of mammography images.
+- Models:
+  - VGG;
+  - GoogLeNet;
+  - ResNet
+  - DenseNet;
 
+The code was developed using Jupyter Notebooks (Google Colab) and the Python language, incorporating essential libraries such as PyTorch, Plotly, Pandas, SciKit Learn, and Numpy.
 ## 🚀 Acesse o código: 
 [![Colab](https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab)]()
 
 ## ☑️ To-do
 ### Proposta de projeto
-- [ ] Título
-- [ ] Autores
-- [ ] Objetivo(s)
-- [ ] Justificativa (máximo dois parágrafos ou dez linhas)
-- [ ] Metodologia
-- [ ] Referências
-- [ ] Cronograma de atividades
+- [x] Título
+- [x] Autores
+- [x] Objetivo(s)
+- [x] Justificativa (máximo dois parágrafos ou dez linhas)
+- [x] Metodologia
+- [x] Referências
+- [x] Cronograma de atividades
 
 ### Tarefas gerais:
-- [ ] Proposta de projeto
+- [x] Proposta de projeto
 - [ ] Configuração do [Google Colab]()
 - [ ] Análise exploratória de dados
-- [ ] Data augmentation
+- [ ] Data augmentation*
 - [ ] Modelagem do conjunto de dados
 - [ ] Treinamento do modelo
 - [ ] Teste de validação
@@ -39,7 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ex diam, condimentum
 
 
 ## 🔗 Links importantes
-### 🌱 [Dataset](https://emidec.com/)
+### 🌱 [Dataset](https://www.kaggle.com/datasets/skooch/ddsm-mammography)
 ### 📜 [Artigo](#)
 
 
